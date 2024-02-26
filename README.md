@@ -34,6 +34,16 @@ Web page project with the following technologies: Tailwind CSS and Next.js.
  <img src="./src/img/Pag_Web.png" width="400px" alt="Home Image"/>
 </div>
 
+-------
+
+## 🔖 Project on air
+You can visualize the project on air [link](  https://beabstracto.netlify.app/)
+
+
+## 🔖 Git Clone
+You can visualize the project [link]( https://github.com/ludiemert/Project_Beabstracto.git )
+
+
 ---
 
 #### Contact
