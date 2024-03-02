@@ -29,7 +29,7 @@ Web page project with the following technologies: Tailwind CSS and Next.js.
 - **transform.tools**: Used to transform pictures into .svg compatible with Tailwind CSS.
 - **Netlify**: Deployment platform chosen to host the project.
 
-<h2 align="center"> 💻 Project Docker</h2>
+<h2 align="center"> 💻 Project</h2>
 <div align="center">
  <img src="./src/img/Pag_Web.png" width="400px" alt="Home Image"/>
 </div>
